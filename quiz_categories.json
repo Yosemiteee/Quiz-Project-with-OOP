@@ -1,0 +1,99 @@
+{
+    "categories": [
+        {
+            "name": "Mathematics",
+            "questions": [
+                {
+                    "question": "What is 5 + 7?",
+                    "options": [
+                        "10",
+                        "11",
+                        "12",
+                        "13"
+                    ],
+                    "correct_answer": "12"
+                },
+                {
+                    "question": "What is the sum of the interior angles of a triangle?",
+                    "options": [
+                        "90",
+                        "180",
+                        "270",
+                        "360"
+                    ],
+                    "correct_answer": "180"
+                }
+            ]
+        },
+        {
+            "name": "Biology",
+            "questions": [
+                {
+                    "question": "What is the largest organ in the human body?",
+                    "options": [
+                        "Brain",
+                        "Liver",
+                        "Skin",
+                        "Heart"
+                    ],
+                    "correct_answer": "Skin"
+                },
+                {
+                    "question": "Which blood cells carry oxygen?",
+                    "options": [
+                        "White blood cells",
+                        "Red blood cells",
+                        "Platelets",
+                        "Plasma cells"
+                    ],
+                    "correct_answer": "Red blood cells"
+                },
+                {
+                    "question": "aaaaaa",
+                    "options": [
+                        "aaa",
+                        "bbb",
+                        "ccc",
+                        "ddd"
+                    ],
+                    "correct_answer": "aaa"
+                }
+            ]
+        },
+        {
+            "name": "History",
+            "questions": [
+                {
+                    "question": "In which year was Istanbul conquered?",
+                    "options": [
+                        "1326",
+                        "1453",
+                        "1517",
+                        "1923"
+                    ],
+                    "correct_answer": "1453"
+                },
+                {
+                    "question": "In which year did the French Revolution take place?",
+                    "options": [
+                        "1492",
+                        "1648",
+                        "1789",
+                        "1914"
+                    ],
+                    "correct_answer": "1789"
+                },
+                {
+                    "question": "In which year was Atatürk born?",
+                    "options": [
+                        "1881",
+                        "1900",
+                        "1923",
+                        "1938"
+                    ],
+                    "correct_answer": "1881"
+                }
+            ]
+        }
+    ]
+}

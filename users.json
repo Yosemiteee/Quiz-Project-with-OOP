@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "email": "ali@example.com",
+            "username": "ali123",
+            "password": "ali_sifre"
+        },
+        {
+            "email": "ayse@example.com",
+            "username": "ayse789",
+            "password": "ayse_sifre"
+        },
+        {
+            "email": "new2@example.com",
+            "username": "new2user",
+            "password": "newpass123"
+        },
+        {
+            "email": "sami@gmail.com",
+            "username": "sami",
+            "password": "12345"
+        }
+    ]
+}
